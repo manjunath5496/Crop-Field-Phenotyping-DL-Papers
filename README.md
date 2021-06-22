@@ -24,5 +24,18 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Crop-Field-Phenotyping-DL-Papers/blob/master/p(13).pdf" style="text-decoration:none;">Deep Regression versus Detection for Counting in Robotic Phenotyping</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Crop-Field-Phenotyping-DL-Papers/blob/master/p(14).pdf" style="text-decoration:none;">Pheno-Deep Counter: a unified and versatile deep learning architecture for leaf counting</a></li>
+  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Crop-Field-Phenotyping-DL-Papers/blob/master/p(15).pdf" style="text-decoration:none;">Plant Phenotyping Research Trends, a Science Mapping Approach</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Crop-Field-Phenotyping-DL-Papers/blob/master/p(16).pdf" style="text-decoration:none;">Deep Plant Phenomics: A Deep
+Learning Platform for Complex Plant Phenotyping Tasks</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Crop-Field-Phenotyping-DL-Papers/blob/master/p(17).pdf" style="text-decoration:none;">Deep Learning for Plant Stress Phenotyping: Trends and Future Perspectives</a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Crop-Field-Phenotyping-DL-Papers/blob/master/p(18).pdf" style="text-decoration:none;">Computer Vision with Deep Learning for Plant Phenotyping in Agriculture: A Survey</a></li> 
+  
+  
+  
+  
                               
 </ul>
